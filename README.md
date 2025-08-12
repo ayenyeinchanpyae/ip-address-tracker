@@ -3,7 +3,7 @@
 This is a solution to the [IP Address Tracker challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/ip-address-tracker-I8-0yYAH0). The application allows users to search for any IP address or domain and see the corresponding location details displayed on an interactive map.
 
 ### [🚀 Live Demo]
-
+(https://ip-address-tracker-beta-three.vercel.app/)
 ---
 
 ### Desktop View
